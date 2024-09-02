@@ -1,4 +1,4 @@
-package com.wangxu.innerClass3;
+package com.wangxu.lambda.innerClass3;
 
 public class Test {
     public static void main(String[] args) {

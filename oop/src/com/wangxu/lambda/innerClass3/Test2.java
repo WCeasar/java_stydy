@@ -1,4 +1,4 @@
-package com.wangxu.innerClass3;
+package com.wangxu.lambda.innerClass3;
 
 public class Test2 {
     // 匿名内部类在开发中的常见形式: 通常作为一个对象参数传输给方法
