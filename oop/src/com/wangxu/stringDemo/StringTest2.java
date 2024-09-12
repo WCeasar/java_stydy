@@ -1,6 +1,6 @@
 package com.wangxu.stringDemo;
 import java.util.Random;
-public class StringTest2 {
+public class  StringTest2 {
 
     private static final String CHARACTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
 
